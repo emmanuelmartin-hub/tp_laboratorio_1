@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1599873384 source:g:\tp calculadora laboratorio\menuoperaciones.c
+	"menuoperaciones.h"
+
+1599873418 g:\tp calculadora laboratorio\menuoperaciones.h
+
+1599873484 source:g:\tp calculadora laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuoperaciones.h"
+
